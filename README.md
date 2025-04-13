@@ -5,7 +5,7 @@ Bu proje, 🎓 Udemy üzerinde Murat Yücedağ tarafından sunulan "Asp.Net Core
 Bu dinamik portföy sitesi, kişisel becerilerimi, deneyimlerimi ve projelerimi dijital ortamda sunmamı sağlıyor.
 Ayrıca admin panel sayesinde içeriklerin kolayca yönetilmesi mümkün 🧠
 
-📥 CV indirilebilir, 🔗 GitHub ve 💼 LinkedIn gibi sosyal medya bağlantılarına hızlıca ulaşılabilir.
+
 👨‍💻 Mobil uyumlu ve şık bir arayüz ile kullanıcı dostu deneyim sunar.
 
 🧱 Proje Yapısı ve Katmanlar
